@@ -34,14 +34,6 @@
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src ="https://img.shields.io/badge/SQLite-%2307405e.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
 <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </a>
 
@@ -74,19 +66,59 @@
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Apache%20-%23D42029.svg?&style=for-the-badge&logo=Apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy%20-%238CAAE6.svg?&style=for-the-badge&logo=SciPy&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Azure%20-%230072C6.svg?&style=for-the-badge&logo=Azure-devops&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly%20-%233F4F75.svg?&style=for-the-badge&logo=Plotly&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Django%20-%23D00000.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dask%20-%23FC6E6B.svg?&style=for-the-badge&logo=Dask&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Flask%20-%23FF6F00.svg?&style=for-the-badge&logo=Flask&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV%20-%235C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/OpenAI%20-%23412991.svg?&style=for-the-badge&logo=OpenAI&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Pytest%20-%230A9EDC.svg?&style=for-the-badge&logo=Pytest&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Linux%20-%23FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Ubuntu%20-%23E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Databricks%20-%23FF3621.svg?&style=for-the-badge&logo=Databricks&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Tableau%20-%23E97627.svg?&style=for-the-badge&logo=Tableau&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/PowerBI%20-%23F2C811.svg?&style=for-the-badge&logo=PowerBI&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Microsoft Excel%20-%23217346.svg?&style=for-the-badge&logo=Microsoft Excel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src ="https://img.shields.io/badge/SQLite-%2307405e.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sherozshaikh">
@@ -110,59 +142,27 @@
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Apache Spark%20-%23E25A1C.svg?&style=for-the-badge&logo=Apache Spark&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
 <img src="https://img.shields.io/badge/Elasticsearch%20-%23005571.svg?&style=for-the-badge&logo=Elasticsearch&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Tableau%20-%23E97627.svg?&style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache Spark%20-%23E25A1C.svg?&style=for-the-badge&logo=Apache Spark&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/PowerBI%20-%23F2C811.svg?&style=for-the-badge&logo=PowerBI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20-%23D42029.svg?&style=for-the-badge&logo=Apache&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Pytest%20-%230A9EDC.svg?&style=for-the-badge&logo=Pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20-%230072C6.svg?&style=for-the-badge&logo=Azure-devops&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Linux%20-%23FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django%20-%23D00000.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Ubuntu%20-%23E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Databricks%20-%23FF3621.svg?&style=for-the-badge&logo=Databricks&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/SciPy%20-%238CAAE6.svg?&style=for-the-badge&logo=SciPy&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Plotly%20-%233F4F75.svg?&style=for-the-badge&logo=Plotly&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Dask%20-%23FC6E6B.svg?&style=for-the-badge&logo=Dask&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/OpenCV%20-%235C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/OpenAI%20-%23412991.svg?&style=for-the-badge&logo=OpenAI&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Microsoft Excel%20-%23217346.svg?&style=for-the-badge&logo=Microsoft Excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask%20-%23FF6F00.svg?&style=for-the-badge&logo=Flask&logoColor=white" />
 </a>
 
 ## 📫 Contact
