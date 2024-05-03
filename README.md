@@ -10,33 +10,43 @@
 - **Coursework:** Deep Learning, Artificial Intelligence, Information Retrieval, Knowledge Discovery & Data Mining, Business Intelligence, Natural Language Processing, Statistics
 
 ### My Skill-Set
+
 <img width="43%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github%20-%23121011.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gitlab%20-%23FC6D26.svg?&style=for-the-badge&logo=Gitlab&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src ="https://img.shields.io/badge/SQLite-%2307405e.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sherozshaikh">
 <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/scikit-learn%20-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sherozshaikh">
@@ -52,23 +62,107 @@
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=for-the-badge&logo=Pandas&logoColor=white" />
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy%20-%23013243.svg?&style=for-the-badge&logo=Numpy&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
+<img src="https://img.shields.io/badge/spaCy%20-%2309A3D5.svg?&style=for-the-badge&logo=spaCy&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/django%20-%23D00000.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20-%23D42029.svg?&style=for-the-badge&logo=Apache&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/flask%20-%23FF6F00.svg?&style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20-%230072C6.svg?&style=for-the-badge&logo=Azure-devops&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Django%20-%23D00000.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Flask%20-%23FF6F00.svg?&style=for-the-badge&logo=Flask&logoColor=white" />
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/PostgreSQL%20-%234169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Amazon Redshift%20-%238C4FFF.svg?&style=for-the-badge&logo=Amazon Redshift&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Microsoft SQL Server%20-%23CC2927.svg?&style=for-the-badge&logo=Microsoft SQL Server&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Google BigQuery%20-%23669DF6.svg?&style=for-the-badge&logo=Google BigQuery&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Apache Spark%20-%23E25A1C.svg?&style=for-the-badge&logo=Apache Spark&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Elasticsearch%20-%23005571.svg?&style=for-the-badge&logo=Elasticsearch&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Tableau%20-%23E97627.svg?&style=for-the-badge&logo=Tableau&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/PowerBI%20-%23F2C811.svg?&style=for-the-badge&logo=PowerBI&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Pytest%20-%230A9EDC.svg?&style=for-the-badge&logo=Pytest&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Linux%20-%23FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Ubuntu%20-%23E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Databricks%20-%23FF3621.svg?&style=for-the-badge&logo=Databricks&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/SciPy%20-%238CAAE6.svg?&style=for-the-badge&logo=SciPy&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Plotly%20-%233F4F75.svg?&style=for-the-badge&logo=Plotly&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Dask%20-%23FC6E6B.svg?&style=for-the-badge&logo=Dask&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/OpenCV%20-%235C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/OpenAI%20-%23412991.svg?&style=for-the-badge&logo=OpenAI&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sherozshaikh">
+<img src="https://img.shields.io/badge/Microsoft Excel%20-%23217346.svg?&style=for-the-badge&logo=Microsoft Excel&logoColor=white"/>
 </a>
 
 ## 📫 Contact
