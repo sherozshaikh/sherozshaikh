@@ -9,6 +9,10 @@
 - **Duration:** Aug 2023 - Present
 - **Coursework:** Deep Learning, Artificial Intelligence, Information Retrieval, Knowledge Discovery & Data Mining, Business Intelligence, Natural Language Processing, Statistics
 
+### 🌟 Featured Project
+
+Check out my featured project, **[ext_to_vector_embedding_pipeline](https://github.com/sherozshaikh/text_to_vector_embedding_pipeline/)**, for advanced text embedding and model fetching capabilities in NLP!
+
 ### My Skill-Set
 
 <img width="43%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
