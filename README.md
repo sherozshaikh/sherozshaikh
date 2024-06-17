@@ -11,7 +11,7 @@
 
 ### 🌟 Featured Project
 
-Check out my featured project, **[ext_to_vector_embedding_pipeline](https://github.com/sherozshaikh/text_to_vector_embedding_pipeline/)**, for advanced text embedding and model fetching capabilities in NLP!
+Check out my featured project, **[Text-2-Vector-Embedding-Toolkit](https://github.com/sherozshaikh/text_to_vector_embedding_pipeline/)**, for advanced text embedding and model fetching capabilities in NLP!
 
 ### My Skill-Set
 
