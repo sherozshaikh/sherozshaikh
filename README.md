@@ -171,6 +171,5 @@ Check out my featured project, **[Text-2-Vector-Embedding-Toolkit](https://githu
 
 ## 📫 Contact
 - **Email:** [sshaikh@wpi.edu](mailto:sshaikh@wpi.edu)
-- **Phone:** (781)-655-9092
 - **GitHub:** [sherozshaikh](https://github.com/sherozshaikh)
 - **LinkedIn:** [Shaikh Sheroz](https://www.linkedin.com/in/shaikh-sheroz-07s/)
