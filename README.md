@@ -1,4 +1,3 @@
-
 🎯 A quality and output-driven data scientist with a diverse background in data analysis, machine learning, and data engineering. With a strong academic foundation and hands-on industry experience, I excel at transforming data into actionable insights. This GitHub profile showcases my projects, skills, and experience.
 
 🏅 Eager to explore opportunities in collaborative team settings that foster innovation and creativity.
@@ -6,7 +5,8 @@
 ## 🎓 Education
 - **University:** Worcester Polytechnic Institute (WPI), Worcester, MA, USA
 - **Program:** M.S. Data Science
-- **Duration:** Aug 2023 - Present
+- **Duration:** Aug 2023 - May 2025
+- **Grade:** 3.9 / 4.0
 - **Coursework:** Deep Learning, Artificial Intelligence, Information Retrieval, Knowledge Discovery & Data Mining, Business Intelligence, Natural Language Processing, Statistics
 
 ### 🌟 Featured Project
