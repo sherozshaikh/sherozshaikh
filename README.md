@@ -9,10 +9,6 @@
 - **Grade:** 3.9 / 4.0
 - **Coursework:** Deep Learning, Artificial Intelligence, Information Retrieval, Knowledge Discovery & Data Mining, Business Intelligence, Natural Language Processing, Statistics
 
-### 🌟 Featured Project
-
-Check out my featured project, **[Text-2-Vector-Embedding-Toolkit](https://github.com/sherozshaikh/text_to_vector_embedding_pipeline/)**, for advanced text embedding and model fetching capabilities in NLP!
-
 ### My Skill-Set
 
 <img width="43%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -171,5 +167,6 @@ Check out my featured project, **[Text-2-Vector-Embedding-Toolkit](https://githu
 
 ## 📫 Contact
 - **Email:** [sshaikh@wpi.edu](mailto:sshaikh@wpi.edu)
+- **Portfolio:** [sherozshaikh](https://sherozshaikh.github.io/)
 - **GitHub:** [sherozshaikh](https://github.com/sherozshaikh)
 - **LinkedIn:** [Shaikh Sheroz](https://www.linkedin.com/in/shaikh-sheroz-07s/)
