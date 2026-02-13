@@ -1,172 +1,101 @@
-🎯 A quality and output-driven data scientist with a diverse background in data analysis, machine learning, and data engineering. With a strong academic foundation and hands-on industry experience, I excel at transforming data into actionable insights. This GitHub profile showcases my projects, skills, and experience.
+<h1 align="center">Hey there, I'm Sheroz 👋</h1>
 
-🏅 Eager to explore opportunities in collaborative team settings that foster innovation and creativity.
+<p align="center">
+  <strong>Machine Learning Engineer & Data Scientist</strong><br/>
+  Building production ML systems — from LLM-powered automation to healthcare AI
+</p>
 
-## 🎓 Education
-- **University:** Worcester Polytechnic Institute (WPI), Worcester, MA, USA
-- **Program:** M.S. Data Science
-- **Duration:** Aug 2023 - May 2025
-- **Grade:** 3.9 / 4.0
-- **Coursework:** Deep Learning, Artificial Intelligence, Information Retrieval, Knowledge Discovery & Data Mining, Business Intelligence, Natural Language Processing, Statistics
+<p align="center">
+  <a href="https://linkedin.com/in/sherozshaikh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:shaikh.sheroz07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/sherozshaikh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-### My Skill-Set
+---
 
-<img width="43%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+### 🚀 About Me
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-</a>
+- 🎓 M.S. Data Science @ **Worcester Polytechnic Institute (WPI)** | GPA: 3.9/4.0
+- 🏆 **Best Data Science Project** award winner (1st place out of 20+ teams) — healthcare ML project
+- 🏥 5+ years building production ML systems across **healthcare, fintech, and IoT**
+- 🤖 Passionate about **LLMs, semantic search, and ML pipeline automation**
+- 📦 Open-source contributor — published **4 Python packages** on PyPI
+- 📍 Boston, MA
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>
-</a>
+---
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
-</a>
+### 🏗️ What I've Built
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Github%20-%23121011.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
-</a>
+- **LLM-Powered Ticket Routing** — Claude API-based system automating 40% of classification workflows, saving ~$700/month in operational costs
+- **ICD-10 Medical Coding System** — Production LLM serving 10+ enterprise healthcare clients, processing 100K+ monthly requests
+- **Semantic Search Platform** — Vector embeddings over 940K healthcare documents, delivering ~$80K/month in operational savings
+- **ML Document Classifier** — Production classifier automating 80% of daily document triage (900+ docs) with 99%+ uptime
+- **Time-Series Forecasting** — PyTorch pipeline predicting equipment failures 30 days in advance
+- **LoRA Fine-Tuning Pipeline** — End-to-end text classification with parameter-efficient fine-tuning and reproducible benchmarking
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Gitlab%20-%23FC6D26.svg?&style=for-the-badge&logo=Gitlab&logoColor=white"/>
-</a>
+---
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-</a>
+### 🧰 Tech Stack
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/scikit-learn%20-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</a>
+**AI & ML Frameworks**
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
-</a>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white)
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
-</a>
+**LLMs & Vector Search**
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
-</a>
+![Claude](https://img.shields.io/badge/Anthropic_Claude-D4A27F?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![Chroma](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logoColor=white)
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=for-the-badge&logo=Pandas&logoColor=white" />
-</a>
+**Data Engineering & ETL**
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Numpy%20-%23013243.svg?&style=for-the-badge&logo=Numpy&logoColor=white"/>
-</a>
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/spaCy%20-%2309A3D5.svg?&style=for-the-badge&logo=spaCy&logoColor=white"/>
-</a>
+**Production & MLOps**
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/SciPy%20-%238CAAE6.svg?&style=for-the-badge&logo=SciPy&logoColor=white"/>
-</a>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Plotly%20-%233F4F75.svg?&style=for-the-badge&logo=Plotly&logoColor=white"/>
-</a>
+**Languages**
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Dask%20-%23FC6E6B.svg?&style=for-the-badge&logo=Dask&logoColor=white"/>
-</a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/OpenCV%20-%235C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white"/>
-</a>
+---
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/OpenAI%20-%23412991.svg?&style=for-the-badge&logo=OpenAI&logoColor=white"/>
-</a>
+### 📈 Highlights
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Pytest%20-%230A9EDC.svg?&style=for-the-badge&logo=Pytest&logoColor=white"/>
-</a>
+- 🏥 Deployed production LLM for ICD-10 medical coding serving **10+ enterprise healthcare clients**
+- 🔍 Built semantic search over **940K documents**, saving **~$80K/month** in operational costs
+- ⚡ Automated **80%** of daily document triage with ML classifier (900+ docs/day)
+- 📊 Optimized PySpark ETL for **15M+ Medicare records** — 75% fewer data scans, 58% faster queries
+- 📦 Published **4 open-source Python packages** on PyPI for ML pipeline tooling
+- 🏆 **1st place** — WPI Best Data Science Project (Winter 2024)
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Linux%20-%23FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
-</a>
+---
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Ubuntu%20-%23E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sherozshaikh&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Databricks%20-%23FF3621.svg?&style=for-the-badge&logo=Databricks&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sherozshaikh&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Tableau%20-%23E97627.svg?&style=for-the-badge&logo=Tableau&logoColor=white"/>
-</a>
+---
 
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/PowerBI%20-%23F2C811.svg?&style=for-the-badge&logo=PowerBI&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Microsoft Excel%20-%23217346.svg?&style=for-the-badge&logo=Microsoft Excel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src ="https://img.shields.io/badge/SQLite-%2307405e.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/PostgreSQL%20-%234169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Amazon Redshift%20-%238C4FFF.svg?&style=for-the-badge&logo=Amazon Redshift&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Microsoft SQL Server%20-%23CC2927.svg?&style=for-the-badge&logo=Microsoft SQL Server&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Google BigQuery%20-%23669DF6.svg?&style=for-the-badge&logo=Google BigQuery&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Elasticsearch%20-%23005571.svg?&style=for-the-badge&logo=Elasticsearch&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Apache Spark%20-%23E25A1C.svg?&style=for-the-badge&logo=Apache Spark&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Apache%20-%23D42029.svg?&style=for-the-badge&logo=Apache&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Azure%20-%230072C6.svg?&style=for-the-badge&logo=Azure-devops&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Django%20-%23D00000.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sherozshaikh">
-<img src="https://img.shields.io/badge/Flask%20-%23FF6F00.svg?&style=for-the-badge&logo=Flask&logoColor=white" />
-</a>
-
-## 📫 Contact
-- **Email:** [sshaikh@wpi.edu](mailto:sshaikh@wpi.edu)
-- **Portfolio:** [sherozshaikh](https://sherozshaikh.github.io/)
-- **GitHub:** [sherozshaikh](https://github.com/sherozshaikh)
-- **LinkedIn:** [Shaikh Sheroz](https://www.linkedin.com/in/shaikh-sheroz-07s/)
+<p align="center">💬 Let's connect — always happy to chat about ML engineering, LLMs, healthcare AI, or open-source!</p>
