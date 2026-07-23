@@ -17,10 +17,9 @@
 
 - 🎓 M.S. Data Science @ **Worcester Polytechnic Institute (WPI)** | GPA: 3.9/4.0
 - 🏆 **Best Data Science Project** award winner (1st place out of 20+ teams) — healthcare ML project
-- 🏥 5+ years building production ML systems across **healthcare, fintech, and IoT**
+- 🏥 8+ years building production ML systems across **healthcare, fintech, and IoT**
 - 🤖 Passionate about **LLMs, semantic search, and ML pipeline automation**
 - 📦 Open-source contributor — published **4 Python packages** on PyPI
-- 📍 Boston, MA
 
 ---
 
