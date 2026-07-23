@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sherozshaikh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://sherozshaikh.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/shaikh-sheroz-07s/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:shaikh.sheroz07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/sherozshaikh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
@@ -20,17 +21,25 @@
 - 🏥 8+ years building production ML systems across **healthcare, fintech, and IoT**
 - 🤖 Passionate about **LLMs, semantic search, and ML pipeline automation**
 - 📦 Open-source contributor — published **4 Python packages** on PyPI
+- 📍 USA
 
 ---
 
 ### 🏗️ What I've Built
 
+- **Refund Pilot** — Production e-commerce refund agent: deterministic 5-node LangGraph pipeline enforcing a written policy via Claude tool-forcing (`temperature=0`), SSE streaming, auditable trace dashboard, prompt-injection defense, full OTel→Grafana observability [![Demo](https://img.shields.io/badge/▶_Watch_Demo-Loom-625DF5?style=flat-square&logo=loom&logoColor=white)](https://www.loom.com/share/5b819e735c6647efb1411b7e55e3a6c3)
 - **LLM-Powered Ticket Routing** — Claude API-based system automating 40% of classification workflows, saving ~$700/month in operational costs
 - **ICD-10 Medical Coding System** — Production LLM serving 10+ enterprise healthcare clients, processing 100K+ monthly requests
 - **Semantic Search Platform** — Vector embeddings over 940K healthcare documents, delivering ~$80K/month in operational savings
 - **ML Document Classifier** — Production classifier automating 80% of daily document triage (900+ docs) with 99%+ uptime
 - **Time-Series Forecasting** — PyTorch pipeline predicting equipment failures 30 days in advance
 - **LoRA Fine-Tuning Pipeline** — End-to-end text classification with parameter-efficient fine-tuning and reproducible benchmarking
+
+---
+
+### 📄 Research
+
+- **Dissecting Agentic RAG: A Component Ablation for Multi-Hop QA with a Local 7B Model** — controlled ablation on 5,000 HotpotQA multi-hop questions isolating which agentic-RAG components drive accuracy; fixed hybrid retrieval (RRF) beats rule-based adaptive routing. +10.1 EM / +7.6 F1 for the full agentic pipeline vs. baseline (best single variant EM 55.0% / F1 63.5%), fully local at zero API cost. [![arXiv](https://img.shields.io/badge/arXiv-2606.21553-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2606.21553)
 
 ---
 
